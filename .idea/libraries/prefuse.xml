@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="prefuse">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/PWMiner/bin/lib/prefuse.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;apps.PWMiner.GraphVis.ClosenessCentrality.java&apos; to &apos;Graph_Algos.java&apos;&#x0A;- Original project: &apos;PWMiner_Graph&apos;&#x0A;- Original element: &apos;apps.PWMiner.GraphVis.ClosenessCentrality.java&apos;&#x0A;- Renamed element: &apos;apps.PWMiner.GraphVis.Graph_Algos.java&apos;" description="Rename compilation unit &apos;ClosenessCentrality.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;apps.PWMiner.GraphVis{ClosenessCentrality.java" name="Graph_Algos.java" references="false" stamp="1556307909305" version="1.0"/>
+</session>

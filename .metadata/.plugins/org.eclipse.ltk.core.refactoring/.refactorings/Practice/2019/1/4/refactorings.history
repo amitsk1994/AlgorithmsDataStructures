@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;alg&apos; to &apos;Algorithms and Data Structures&apos;&#x0A;- Original project: &apos;Practice&apos;&#x0A;- Destination element: &apos;Algorithms and Data Structures&apos;&#x0A;- Original element: &apos;alg&apos;" description="Copy folder" destination="=Algorithms and Data Structures" element1="alg" files="0" flags="589830" folders="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1548006735618" units="0" version="1.0"/>
+</session>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.util.TreeMap"/>
+    <fullyQualifiedTypeName name="java.util.Vector"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.util.Hashtable"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.util.LinkedHashMap"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.HashSet"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="apps.PWMiner.GraphVis.DotLayout"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.algorithms.layout.Layout"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.visualization.renderers.Renderer"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.visualization.VisualizationViewer"/>
+    <fullyQualifiedTypeName name="javax.swing.JFrame"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.algorithms.layout.CircleLayout"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.visualization.BasicVisualizationServer"/>
+    <fullyQualifiedTypeName name="java.awt.Dimension"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.visualization.renderers.Renderer.VertexLabel.Position"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.visualization.decorators.ToStringLabeller"/>
+    <fullyQualifiedTypeName name="java.awt.Color"/>
+    <fullyQualifiedTypeName name="java.awt.Paint"/>
+    <fullyQualifiedTypeName name="java.awt.Stroke"/>
+    <fullyQualifiedTypeName name="java.awt.BasicStroke"/>
+    <fullyQualifiedTypeName name="edu.uci.ics.jung.visualization.control.DefaultModalGraphMouse"/>
+    <fullyQualifiedTypeName name="java.awt.Label"/>
+    <fullyQualifiedTypeName name="org.apache.commons.collections15.functors.ChainedTransformer"/>
+    <fullyQualifiedTypeName name="org.w3c.dom.Node"/>
+</qualifiedTypeNameHistroy>
